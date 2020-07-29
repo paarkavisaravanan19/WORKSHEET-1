@@ -19,6 +19,9 @@ public class validity0to9 {
         
         switch(a)
         {
+            case 0:
+                System.out.println("valid");
+                break;
             case 1:
                 System.out.println("valid");
                 break;
